@@ -1,4 +1,59 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="49Ers @ Texans" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Houston-Texans.svg" group-title="NFLWebcast - Live Games",49Ers @ Texans
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/77.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Bears @ Ravens" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Baltimore-Ravens.svg" group-title="NFLWebcast - Live Games",Bears @ Ravens
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/73.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Bills @ Panthers" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Carolina-Panthers.svg" group-title="NFLWebcast - Live Games",Bills @ Panthers
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/70.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Browns @ Patriots" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-New-England-Patriots.svg" group-title="NFLWebcast - Live Games",Browns @ Patriots
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/71.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Buccaneers @ Saints" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-New-Orleans-Saints.svg" group-title="NFLWebcast - Live Games",Buccaneers @ Saints
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/224.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cowboys @ Broncos" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Denver-Broncos.svg" group-title="NFLWebcast - Live Games",Cowboys @ Broncos
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/54.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Dolphins @ Falcons" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Atlanta-Falcons.svg" group-title="NFLWebcast - Live Games",Dolphins @ Falcons
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/64.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Giants @ Eagles" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Philadelphia-Eagles.svg" group-title="NFLWebcast - Live Games",Giants @ Eagles
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/63.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Jets @ Bengals" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Cincinnati-Bengals.svg" group-title="NFLWebcast - Live Games",Jets @ Bengals
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/52.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Packers @ Steelers" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Pittsburgh-Steelers.svg" group-title="NFLWebcast - Live Games",Packers @ Steelers
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/76.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Titans @ Colts" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Indianapolis-Colts.svg" group-title="NFLWebcast - Live Games",Titans @ Colts
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/60.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" group-title="NFLWebcast - 24/7 Channels",ESPN
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
@@ -39,6 +94,11 @@ https://live.webcastserver.online/newz/newz/171.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/104.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Islanders @ Flyers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Philadelphia-Flyers.svg" group-title="NHLWebcast - Live Games",Islanders @ Flyers
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/173.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Jackets @ Penguins" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Pittsburgh-Penguins-.svg" group-title="NHLWebcast - Live Games",Jackets @ Penguins
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
