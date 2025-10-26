@@ -69,16 +69,6 @@ https://live.webcastserver.online/newz/newz/50.m3u8
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/196.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Hurricanes @ Stars" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Dallas-Stars.svg" group-title="NHLWebcast - Live Games",Hurricanes @ Stars
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://live.webcastserver.online/newz/newz/104.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Kings @ Predators" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Nashville-Predators.svg" group-title="NHLWebcast - Live Games",Kings @ Predators
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://live.webcastserver.online/newz/newz/100.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Oilers @ Kraken" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/10/Seattle-Kraken-logo-.png" group-title="NHLWebcast - Live Games",Oilers @ Kraken
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
