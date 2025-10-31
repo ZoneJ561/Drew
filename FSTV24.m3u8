@@ -3,429 +3,554 @@
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/usa-usanetwork.m3u8?auth_key=1761922274-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-04f40042e7e736fce6d7cd0e16cf774d
+https://o4.shangper.shop/usa-usanetwork.m3u8?auth_key=1761924589-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-960f537ccde76dcdce82893fe3cafcc4
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="FSTV",CBS Sports Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/usa-cbssport.m3u8?auth_key=1761922277-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-5b381f31124c7bb740f055ebd3f4c382
+https://o4.shangper.shop/usa-cbssport.m3u8?auth_key=1761924617-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-68395363b798952e6d2525906875b3e4
 #EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS.png" group-title="FSTV",CBS Los Angeles
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-cbslosangeles.m3u8?auth_key=1761922282-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-2c327fd9347afa23a81c026e86a4793f
+https://o4.shangper.shop/us-cbslosangeles.m3u8?auth_key=1761924620-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-be0a1cb9eafe8aef3b005ad829562b69
+#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://yt3.googleusercontent.com/DMOVkUIv9Su7yHsGmjl7gS0iU9qjvz13BSZZfQTVMCAE7mUHbWS3S0-DbFg1HUBt9pD9yjxT=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",CBS Sports Golazo!
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o3.shangper.shop/pre22.m3u8?auth_key=1761924623-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-de711113ed0c231a7ad37e49ff2c8350
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" group-title="FSTV",NFL Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-nfl.m3u8?auth_key=1761922286-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-4a2104aceb022b5aeda21fd15fecc4b0
+https://o2.shangper.shop/us-nfl.m3u8?auth_key=1761924626-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-b3cd1c2e7fade01ba50c3b4746926a16
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="FSTV",NFL RedZone
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/us-redzone.m3u8?auth_key=1761924630-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-d8586150b7ffdb9d92fa887ece8cbaf3
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="FSTV",ESPN
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/us-espn.m3u8?auth_key=1761924633-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-c840cdd80e611f899f27eb050b12bfdd
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="FSTV",ESPN2
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-espn2.m3u8?auth_key=1761922298-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-a6c1dd0277759f6b5e82a2aed330b88c
+https://o2.shangper.shop/us-espn2.m3u8?auth_key=1761924636-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-73faf10e0f633f8b4f5f1ba725909078
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" group-title="FSTV",ESPNU
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/us-uespn.m3u8?auth_key=1761924639-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-6ed29a9a4e2b38b1d22af2417cc18b6d
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="FSTV",SEC Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-secnetwork.m3u8?auth_key=1761922307-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-2ca52876f635947cfcd2d8c38bf6ae5c
+https://o4.shangper.shop/us-secnetwork.m3u8?auth_key=1761924641-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-59d39872b12a4dc1e2551f0c9be0eddd
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="FSTV",ESPNews
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/us-espnnews.m3u8?auth_key=1761924644-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-e6d4d7dc1b74f29599e92db4116789a3
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.svg.png" group-title="FSTV",ESPN Deportes
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-espndeportes.m3u8?auth_key=1761922312-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-6b9ab4d56695b085394d1aee588580c8
+https://o2.shangper.shop/us-espndeportes.m3u8?auth_key=1761924648-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-b5d6bef6f83a68f496fa734f56416755
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="FSTV",FS1
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/usa-fs1.m3u8?auth_key=1761922315-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-430563c91a63f4394ad4a867cbf0f1ea
+https://o2.shangper.shop/usa-fs1.m3u8?auth_key=1761924651-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-5bc8fc6a168ae8727ba6d39a8ca2ae43
+#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="FSTV",FS2
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/usa-fs2.m3u8?auth_key=1761924654-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-d8ced6eafea85279741690aaa1acaafb
 #EXTINF:-1 tvg-id="plex.tv.NBC.News.NOW.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-flat-us.png?raw=true" group-title="FSTV",NBC News
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/uk-viaplayxtra.m3u8?auth_key=1761922322-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-53d732d7d76143a7954cafc4ca544a87
+https://o2.shangper.shop/uk-viaplayxtra.m3u8?auth_key=1761924658-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-9eb779d2c338ffbae9f9261b484db4f3
 #EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="FSTV",Golf Channel
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-golf.m3u8?auth_key=1761922325-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-b15f34ea2f22255f22645654336b1b45
+https://o2.shangper.shop/us-golf.m3u8?auth_key=1761924660-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-f1a7b0a65a04cbe9ca59794e6b712744
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="FSTV",Tennis Channel
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-tennistv.m3u8?auth_key=1761922328-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-304cfd7648430161d8df4b7e4fa33b88
+https://o2.shangper.shop/us-tennistv.m3u8?auth_key=1761924663-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-d61f304400104089aeac8d1893f24246
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="FSTV",Tennis Channel 2
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o4.shangper.shop/us-tennistv2.m3u8?auth_key=1761924665-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-bc2a7bb6f8b671d4337fffbd0d7cc0b0
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" group-title="FSTV",NBC Universo
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-universo.m3u8?auth_key=1761922339-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-8442539f5af2790408cff8a8465e117a
+https://o4.shangper.shop/us-universo.m3u8?auth_key=1761924668-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-618a1e33e63bfa36d3ecf7dad24ccab8
+#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="FSTV",NBC
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/us-nbc.m3u8?auth_key=1761924672-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-dd0ea751d8a9d126cc5a6bb13d7f3f99
 #EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/2560px-MSNBC_2015-2021_logo.svg.png" group-title="FSTV",MSNBC
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-nbc.m3u8?auth_key=1761922343-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-5179956702c5958eb8558c88c501a7d5
+https://o2.shangper.shop/us-msn.m3u8?auth_key=1761924675-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-9e3daa88b73405314af208d49165dd59
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="FSTV",CNBC
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/us-cnbc.m3u8?auth_key=1761924677-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-56d413e7132d2149c1fd724bff0ce6e3
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="FSTV",TNT Sports 1
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-cnbc.m3u8?auth_key=1761922348-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-e9d8aee233ce0037cdc3e24568c19dbf
+https://o4.shangper.shop/uk-tntsport1.m3u8?auth_key=1761924679-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-6d924bf5ec5472d3d247b15d091e25b8
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="FSTV",TNT Sports 2
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-tntsport1.m3u8?auth_key=1761922353-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-128204c8dfb7f4a44242efa346678902
+https://o4.shangper.shop/uk-tntsport2.m3u8?auth_key=1761924683-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-defe5cbf7edc934839f912a580d35ca1
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="FSTV",TNT Sports 3
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-tntsport2.m3u8?auth_key=1761922355-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-adb37c51bc7771c25f473167b38c7af2
+https://o4.shangper.shop/uk-tntsport3.m3u8?auth_key=1761924687-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-9a58c5ea2e35dbfb174086ee145e2b19
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp" group-title="FSTV",TNT Sports 5
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-tntsport5.m3u8?auth_key=1761922360-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-a47294c59d374fb80ed182b3c6cb9a8e
+https://o4.shangper.shop/uk-tntsport5.m3u8?auth_key=1761924690-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-fcd114f52f8708b15d07c28498400f37
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="FSTV",TNT Sports 4
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-tntsport4.m3u8?auth_key=1761922363-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-3de09968b17c9218c20273d6aa9db937
+https://o4.shangper.shop/uk-tntsport4.m3u8?auth_key=1761924692-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-c8b708c2def98f52f6d5a174d947eba4
+#EXTINF:-1 tvg-id="Eurosport.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png" group-title="FSTV",Eurosport 1 UK
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/uk-eurosport1.m3u8?auth_key=1761924696-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-a79b68e9a1a15892a976618eb083a10f
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png" group-title="FSTV",Eurosport 2 UK
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/uk-eurosport2.m3u8?auth_key=1761924700-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-5e38b8bfa500deab1048aec076b13f7e
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="FSTV",Sky Sport Golf UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/uk-skysportgolf.m3u8?auth_key=1761922376-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-e8ed4fcfd4902f3bc92faab3751ec4ff
+https://o2.shangper.shop/uk-skysportgolf.m3u8?auth_key=1761924703-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-8d4b5dec069774a75ee679feee11d340
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" group-title="FSTV",Sky Sport Tennis UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-skysporttenis.m3u8?auth_key=1761922379-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-9dc28574782646e3bd645c5c05ae23f8
+https://o4.shangper.shop/uk-skysporttenis.m3u8?auth_key=1761924705-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-4076873b77a79b3b4a9449b69b79bac9
 #EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="FSTV",La Liga TV UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-laligatv.m3u8?auth_key=1761922382-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-9d7cbd3cbcb5f90bf3b99545a0122398
+https://o4.shangper.shop/uk-laligatv.m3u8?auth_key=1761924708-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-189db302babf56545496a99a525bdb4e
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="FSTV",MUTV UK
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/uk-mutv.m3u8?auth_key=1761924711-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-2319696519f0d4798fe23da43050674d
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://live-tv.b-cdn.net/icons/sports/image_(5).png" group-title="FSTV",Sky Sport Plus UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/uk-mutv.m3u8?auth_key=1761922393-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-8a9b438ff2a3cef6a57fd5655cc79ece
+https://o2.shangper.shop/uk-skyplus.m3u8?auth_key=1761924714-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-8d3884fe5de65f48ebd1bd16a8341e6f
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="FSTV",Sky Sport Football
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o4.shangper.shop/uk-skysportfootball.m3u8?auth_key=1761924716-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-4fc8e140e4d2dfcf25eec529bdfd25c5
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="FSTV",Sky Sport Premier League UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-skysportpremierleague.m3u8?auth_key=1761922400-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-effa7f5678aee16622ccd72c8edfd64e
+https://o4.shangper.shop/uk-skysportpremierleague.m3u8?auth_key=1761924720-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-eaa3a2aed4e531e0c9703bdd7eb8c48e
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="FSTV",Sky Sports Main Event
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o4.shangper.shop/uk-skysportmain.m3u8?auth_key=1761924724-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-509ce99004a8d8741303eabf97ded662
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="FSTV",Sky Sport Mix UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-skysportmix.m3u8?auth_key=1761922408-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-ace383e69808563860dc17125a2d8f50
+https://o4.shangper.shop/uk-skysportmix.m3u8?auth_key=1761924727-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-8ca2a04400d852fff3fbcc79a054730a
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png" group-title="FSTV",Sky Sport Racing UK
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/uk-skysportracing.m3u8?auth_key=1761924730-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-c1eda61c99b08df791864813191b2a2f
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="FSTV",Premier Sports 1 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/uk-skysportracing.m3u8?auth_key=1761922417-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-312f07b4081ec52ed5829d275f999b17
+https://o4.shangper.shop/uk-premiersport1.m3u8?auth_key=1761924733-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-b82a00a671ab26f2fa025df288b2e021
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-2-uk.png?raw=true" group-title="FSTV",Premier Sports 2 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-premiersport1.m3u8?auth_key=1761922422-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-d53e0fbeb3b74c55db0a8df31d58e654
+https://o4.shangper.shop/uk-premiersport2.m3u8?auth_key=1761924737-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-5961783c8929a5e754cebf6e2cfbf1bd
+#EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg" group-title="FSTV",Sky Sport Arena UK
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o3.shangper.shop/uk-skysportarena.m3u8?auth_key=1761924740-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-5003b7d671942c520f57a398cf4f99d6
 #EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="FSTV",Racing TV UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-racingtv.m3u8?auth_key=1761922431-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-8e822a15c4bdc26b536aa050557c1bd8
+https://o4.shangper.shop/uk-racingtv.m3u8?auth_key=1761924743-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-32bcc64171baab3bfd729750bdc45118
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-hz-uk.png?raw=true" group-title="FSTV",Sky Sports Action UK
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/uk-skysportaction.m3u8?auth_key=1761924746-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-1117a97d31ca7143ffaa3780fa5a6207
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="FSTV",Sky Sport F1 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/uk-skysportaction.m3u8?auth_key=1761922437-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-f2d1e30655cf5ab243d54063f314e7d0
+https://o2.shangper.shop/uk-skysportf1.m3u8?auth_key=1761924748-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-e5842063e0240120b682145aeb7edf40
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="FSTV",Sky Sport Cricket UK
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/uk-skysportcricket.m3u8?auth_key=1761924752-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-89a27dba719597ba7f061b796aed6dea
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="FSTV",Sky Sport News UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-skysportnews.m3u8?auth_key=1761922445-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-27b28a36cc8395fcd82c8fd9f2a65fa0
+https://o4.shangper.shop/uk-skysportnews.m3u8?auth_key=1761924754-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-301c0024f6cde5e67abeb7b58125827a
+#EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVQ1cCp2JyCeuTWBoSi-Te_YD_29p4ZEUJQ&s" group-title="FSTV",Sky Sport Darts UK
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/uk-skydart.m3u8?auth_key=1761924757-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-481ed99267dd116fa26215b166f3a765
+#EXTINF:-1 tvg-id="KSKJ-CD.us_locals1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="FSTV",BeIN Sports Xtra USA
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o4.shangper.shop/us-beinxtra.m3u8?auth_key=1761924760-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-63dc2dfd742ea80ae8f78c03f361406d
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",BeIN Sports USA
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-beinxtra.m3u8?auth_key=1761922450-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-a205d45d9dd747a7d3b2aa52d87c260b
+https://o4.shangper.shop/usa-beinsport.m3u8?auth_key=1761924762-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-d5c8c4ea09ae686d6536a26ea20336c0
 #EXTINF:-1 tvg-id="613759" tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="FSTV",BeIN Sports Español
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/usa-beinsport.m3u8?auth_key=1761922456-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-6140a016c234d396a6efe58ea8240636
+https://o4.shangper.shop/usa-beinlaliga.m3u8?auth_key=1761924765-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-435aab69def844824d331784e98da738
+#EXTINF:-1 tvg-id="613759" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png" group-title="FSTV",BeIN Sports Español Xtra
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o4.shangper.shop/us-beinespamolxtra.m3u8?auth_key=1761924769-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-76955a9e7d96d154e196fcf74eb507b1
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png" group-title="FSTV",ITV 1 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/uk-itv1.m3u8?auth_key=1761922461-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-4c70e3fa86fcc7d3c3d6697d31951fc7
+https://o2.shangper.shop/uk-itv1.m3u8?auth_key=1761924772-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-e86e26ee124d4e84c68478712787026d
 #EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV2_Logo_2013.svg/2560px-ITV2_Logo_2013.svg.png" group-title="FSTV",ITV 2 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/uk-itv2.m3u8?auth_key=1761922464-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-9bb0fe336ded3488b2935db29258a23c
+https://o2.shangper.shop/uk-itv2.m3u8?auth_key=1761924776-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-54a01d5bf88899be1fa8b5466d0d3734
 #EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/1024px-ITV3_logo_2022.svg.png" group-title="FSTV",ITV 3 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/uk-itv3.m3u8?auth_key=1761922467-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-1592b14f4439ab184ae6fa721d3bca6f
+https://o2.shangper.shop/uk-itv3.m3u8?auth_key=1761924779-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-78fffccbc2240ad601d9a20ec2e898a1
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/2560px-ITV4_logo_%282022%29.svg.png" group-title="FSTV",ITV 4 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/uk-itv4.m3u8?auth_key=1761922469-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-108985b96df6308ece0a05a2cadb3430
+https://o2.shangper.shop/uk-itv4.m3u8?auth_key=1761924781-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-a3bb0aa0efc463306652a2bce9d96263
 #EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-logo="https://ejnorbs.co.uk/wp-content/uploads/2022/01/1E9C338F-017E-4986-A724-AE08D733A0CF.png" group-title="FSTV",LFC TV UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/uk-lfctv.m3u8?auth_key=1761922471-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-f10262240cac36b2eda220c9c030d91f
+https://o2.shangper.shop/uk-lfctv.m3u8?auth_key=1761924785-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-ffc506a5c2aba4aa915057de1aa2e3a1
 #EXTINF:-1 tvg-id="Fubo.Sports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true" group-title="FSTV",Fubo Sports USA
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/usa-fubosport.m3u8?auth_key=1761922474-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-51249a95063bf02b9f00903570658526
+https://o4.shangper.shop/usa-fubosport.m3u8?auth_key=1761924788-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-d41595b4b8e4a9926dbd1317c540ad3f
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ION_Television.png" group-title="FSTV",ION USA
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-ion.m3u8?auth_key=1761922476-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-0df81dbfecf4e6e6c51258be2193e77d
+https://o4.shangper.shop/us-ion.m3u8?auth_key=1761924790-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-bbbc4291b0f2c33a65dd8dac4287157f
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png" group-title="FSTV",Fox Soccer Plus
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/usa-foxsoccerplus.m3u8?auth_key=1761922480-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-1962879286b18ab1e48f94593912c651
+https://o4.shangper.shop/usa-foxsoccerplus.m3u8?auth_key=1761924792-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-efb1939c10d5ac9b11c5f938a5ffa7b2
 #EXTINF:-1 tvg-id="TyC.Sports.Internacional.USA.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true" group-title="FSTV",TyC Sports
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/usa-tycsport.m3u8?auth_key=1761922483-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-50a1d36fe771b191bdd05fe422345a02
+https://o4.shangper.shop/usa-tycsport.m3u8?auth_key=1761924794-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-59b330669b791ba8b35e7e4b2a6d5396
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBAuTfA1DhscWW7O3ANKzLlFXAcEgz4aQOA&s" group-title="FSTV",Marquee Sports Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-marquee.m3u8?auth_key=1761922486-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-c16d6936c376c3df89d61b13b2aa03f8
+https://o2.shangper.shop/us-marquee.m3u8?auth_key=1761924797-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-151f8f9eab56cafcf05f7472ad183968
 #EXTINF:-1 tvg-id="Yes.Network.us2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVKhyyLjhKAjizJqs8N8jg7mH7bHWVXwUUg&s" group-title="FSTV",YES Network USA
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-yes.m3u8?auth_key=1761922489-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-1b2941f37afe5bdc3f7bb7c7997a7bd6
+https://o4.shangper.shop/us-yes.m3u8?auth_key=1761924801-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-99870173d314c3f41e99ca9a112b85b2
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="FSTV",Big Ten Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-bignetwork.m3u8?auth_key=1761922492-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-46325aa7b58d7b20195463810dbc42a9
+https://o4.shangper.shop/us-bignetwork.m3u8?auth_key=1761924804-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-f94d34eee49948bd2675f1e9d2c22e54
 #EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="FSTV",ABC
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-abc.m3u8?auth_key=1761922494-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-e343937d8646abbdc3176a87b393e3d7
+https://o4.shangper.shop/us-abc.m3u8?auth_key=1761924807-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-10c3ca9503eb231963ad86a1712ee9da
 #EXTINF:-1 tvg-id="TUDN.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="FSTV",TUDN
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/usa-tudn.m3u8?auth_key=1761922497-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-e978a7c7ce0eaa981076df1d341df020
+https://o4.shangper.shop/usa-tudn.m3u8?auth_key=1761924809-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-69caa9b0e2af17f1e7aaf50bdfbb2808
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FOX.png" group-title="FSTV",Fox Los Angeles
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-foxchanel.m3u8?auth_key=1761922500-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-b2c4fc333b6e4772aece729804cdd89f
+https://o4.shangper.shop/us-foxchanel.m3u8?auth_key=1761924811-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-0aad8ec8bfe09f300ede0565cb60617f
 #EXTINF:-1 tvg-id="KVEA-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="FSTV",Telemundo
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-telemundo.m3u8?auth_key=1761922503-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-a60fca360204dae65212c89bc899d28e
+https://o4.shangper.shop/us-telemundo.m3u8?auth_key=1761924814-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-cf99575abdc9bb4f17f8f4a07721ee0f
 #EXTINF:-1 tvg-id="KFTH-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/unimas-us.png?raw=true" group-title="FSTV",UniMás
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-unimas.m3u8?auth_key=1761922507-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-f57b440bbcfde4312f8ef5a1b07e41ff
+https://o4.shangper.shop/uk-unimas.m3u8?auth_key=1761924816-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-cab4225fade1bc640f5b8921d72b35b6
+#EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="FSTV",NHL Network
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/us-nhlnetwork.m3u8?auth_key=1761924818-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-6816465753e094fd159a43a84a12e1b5
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="FSTV",Willow Cricket HD
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-willowhd.m3u8?auth_key=1761922512-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-51671b23306943fbac55173a8f6a2d8e
+https://o2.shangper.shop/us-willowhd.m3u8?auth_key=1761924821-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-1d045ec52ca5c89c9c435610079e4853
 #EXTINF:-1 tvg-id="Willow.Xtra.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-xtra-us.png?raw=true" group-title="FSTV",Willow Xtra
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-willowxtra.m3u8?auth_key=1761922515-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-ea886cf8285050e82cfcdd4d2aee9e6e
+https://o2.shangper.shop/us-willowxtra.m3u8?auth_key=1761924824-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-63876738b83de705957b5f31ed237823
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBATV.png" group-title="FSTV",NBA TV
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-nbatv.m3u8?auth_key=1761922518-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-2b53c65c16e9764844b06369706f7267
+https://o2.shangper.shop/us-nbatv.m3u8?auth_key=1761924828-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-43b7d3abffdb29ea9307e78f8c85ea30
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="FSTV",MLB Network
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/us-mlbnetwork.m3u8?auth_key=1761924830-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-e6f5da2f33f500bb9f9d1cdc7e4041f3
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" group-title="FSTV",CNN
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-cnn.m3u8?auth_key=1761922523-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-52ece6f7b2e002810fd57fcc9164fe05
+https://o2.shangper.shop/us-cnn.m3u8?auth_key=1761924833-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-881a2af395f5a735260fe434663e2fb0
 #EXTINF:-1 tvg-id="W.Network.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/w-network-ca.png?raw=true" group-title="FSTV",W Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-wnetwork.m3u8?auth_key=1761922527-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-315e7fa8ad19fe3ba4864811c2baa17b
+https://o2.shangper.shop/us-wnetwork.m3u8?auth_key=1761924836-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-4ab329efe05277cf1784fe5f2db11a49
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="FSTV",ACC Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-accnetwork.m3u8?auth_key=1761922530-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-6489b54286f8d02fd3dfd5f1b00ed54a
+https://o2.shangper.shop/us-accnetwork.m3u8?auth_key=1761924839-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-3be3a0980cf6b6414445cf4a019f3333
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="FSTV",FoxNews
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-foxnews.m3u8?auth_key=1761922533-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-8ecaf2943ded6b9412a921280e9f5f36
+https://o2.shangper.shop/us-foxnews.m3u8?auth_key=1761924843-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-b528c995de2454a393b471bd5927517f
 #EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" group-title="FSTV",World Fishing Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-wfn.m3u8?auth_key=1761922536-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-3663714c777986d76357653d45e074f8
+https://o2.shangper.shop/us-wfn.m3u8?auth_key=1761924846-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-ccbcf6002cec44009a8cac32c69c764b
 #EXTINF:-1 tvg-id="Fight.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fight-network-us.png?raw=true" group-title="FSTV",The Fight Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-fightnetwork.m3u8?auth_key=1761922540-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-079a5bf659cb66c114b5fc7b26b74355
+https://o2.shangper.shop/us-fightnetwork.m3u8?auth_key=1761924849-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-97fd2168ef9dd266a2a480bde7ee543f
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="FSTV",TNT
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-tnt.m3u8?auth_key=1761922543-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-f8b694e46362e95bf377d07eab2f744a
+https://o4.shangper.shop/us-tnt.m3u8?auth_key=1761924851-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-213ab9fe45e0a42397edf2c4d04432e1
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="FSTV",truTV
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.shangper.shop/pre52.m3u8?auth_key=1761922547-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-b329a86d0cd595ec0cf9fe281c505697
+https://o3.shangper.shop/pre52.m3u8?auth_key=1761924854-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-2ede9c612f733b90e2cb7c6c3df7ebf5
 #EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/FanDuel_Sports_Network_logo.svg" group-title="FSTV",FanDuel TV
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.shangper.shop/pre32.m3u8?auth_key=1761922550-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-cc57d99368802d07cbb4aac382a310a9
+https://o3.shangper.shop/pre32.m3u8?auth_key=1761924858-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-cd20baed250e007392c717a55fc48798
 #EXTINF:-1 tvg-id="AXS.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" group-title="FSTV",AXS TV
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.shangper.shop/pre51.m3u8?auth_key=1761922553-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-8c8d687e6f7d2e213eff98c41058b47d
+https://o3.shangper.shop/pre51.m3u8?auth_key=1761924860-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-989b9f9c7a1f345e9fadd594735e8954
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-logo="https://archive.org/download/BbcOneWales_201708/bbc%20one%20wales.png" group-title="FSTV",BBC One UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-bbcone.m3u8?auth_key=1761922555-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-b676d81e517e24af595dcbd34fa22131
+https://o4.shangper.shop/uk-bbcone.m3u8?auth_key=1761924863-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-23873a0da9f028c65d4f833ef8487af8
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png" group-title="FSTV",BBC Two UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/uk-bbctwo.m3u8?auth_key=1761922559-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-5c7f92ed981c2b72cc25618552ba8910
+https://o4.shangper.shop/uk-bbctwo.m3u8?auth_key=1761924865-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-aa6c341626fbe1c4d94668c180d5c0ce
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" group-title="FSTV",BBC News UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/uk-bbcnews.m3u8?auth_key=1761922562-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-029236dd94059ca76bc40a01640a2f6c
+https://o2.shangper.shop/uk-bbcnews.m3u8?auth_key=1761924867-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-7deb43c6ea7965d60459c47c51471056
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="FSTV",Fox Deportes
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/us-foxdeportes.m3u8?auth_key=1761922565-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-a4fab711dc23b393bc7a9b5689ca32b7
+https://o2.shangper.shop/us-foxdeportes.m3u8?auth_key=1761924870-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-f71c9eb2bd6752f0293326bffb2588b3
 #EXTINF:-1 tvg-id="One.Soccer.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/one-soccer-ca.png?raw=true" group-title="FSTV",OneSoccer Canada
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/ca-soccerone.m3u8?auth_key=1761922568-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-fa4964160e7b9aef35ae40e4147a47ab
+https://o4.shangper.shop/ca-soccerone.m3u8?auth_key=1761924874-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-344e6d11831248b347a4b09a1bb302a3
 #EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png?raw=true" group-title="FSTV",DAZN 1 Germany
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.shangper.shop/de-dazn1.m3u8?auth_key=1761922571-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-9a4aac4e88fc30624c13d7b6ed4a484f
+https://o3.shangper.shop/de-dazn1.m3u8?auth_key=1761924877-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-2dc6bd4aea71470b0368cb2ca06096e4
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="FSTV",Sky Sport Premier League DE
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/de-skypremierleagaue.m3u8?auth_key=1761922574-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-b7284f177bf9ff0f6f1afd187462f7fc
+https://o4.shangper.shop/de-skypremierleagaue.m3u8?auth_key=1761924880-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-f1cfea911e628313733ffbe043bb21f1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png" group-title="FSTV",Ori2Deskyde Top Ent
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/de-skytopevent.m3u8?auth_key=1761922576-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-c8c86f13a0cf6828d2d52e0e344302b2
+https://o4.shangper.shop/de-skytopevent.m3u8?auth_key=1761924884-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-23c7d157991d71274db0f60f8318f966
 #EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn2-de.png?raw=true" group-title="FSTV",DAZN 2 Germany
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.shangper.shop/de-dazn2.m3u8?auth_key=1761922580-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-cb74f485527b2f92ccf6a20dc2e1bc1a
+https://o3.shangper.shop/de-dazn2.m3u8?auth_key=1761924887-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-c01fa1a0b22ad195b084fd877f53e00a
 #EXTINF:-1 tvg-id="Sky.Sport.News.de" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="FSTV",Sky Sport News DE
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/de-skynews.m3u8?auth_key=1761922582-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-c2a3a3985442681105b7d1dd57c1172d
+https://o4.shangper.shop/de-skynews.m3u8?auth_key=1761924891-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-f39c660768c5ad6e7ae125e0baf18d1e
 #EXTINF:-1 tvg-id="sportdigital.Fussball.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="FSTV",SportDigital Germany
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/de-sportdigital.m3u8?auth_key=1761922586-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-f6c122ab85429c8c899a4a829f87315b
+https://o4.shangper.shop/de-sportdigital.m3u8?auth_key=1761924894-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-c21188e9fafe93cc0186906b5f06a79e
 #EXTINF:-1 tvg-id="Sky.Sport.Mix.de" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-mix-uk.png?raw=true" group-title="FSTV",Sky Mix DE
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/de-skymix.m3u8?auth_key=1761922589-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-fd53904f581ee5a4eedfffcd2f9832de
+https://o4.shangper.shop/de-skymix.m3u8?auth_key=1761924898-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-4627c49a00b4c42d0220e2fbbc2029de
 #EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" group-title="FSTV",Bundesliga 1 Germany
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.shangper.shop/de-bundesliga1.m3u8?auth_key=1761922593-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-60cbe27ab066bbad53837eb5753ba0f9
+https://o3.shangper.shop/de-bundesliga1.m3u8?auth_key=1761924901-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-427327a8106077e099ff18c424cc87ea
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://www.sec.gov/Archives/edgar/data/1564708/000156470822000051/image_151a.jpg" group-title="FSTV",Fox Sports 502 AU
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.shangper.shop/pre31.m3u8?auth_key=1761922596-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-8021eaa4298a8fd4391f33672417f1e3
+https://o3.shangper.shop/pre31.m3u8?auth_key=1761924905-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-41cda3a675454aa53727714c98ab0299
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector-400x400.png" group-title="FSTV",Discovery Channel
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/ent-discovery.m3u8?auth_key=1761922600-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-7e4a6bdf41fc6ca3e55790d26cd78b61
+https://o4.shangper.shop/ent-discovery.m3u8?auth_key=1761924908-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-bfb9ab4543dc53f873a8a6e302b0e0f7
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="FSTV",HBO
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/ent-hbo.m3u8?auth_key=1761922604-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-3244ae2272c358f8f9c2750a6baef816
+https://o4.shangper.shop/ent-hbo.m3u8?auth_key=1761924912-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-12720f5a9e63584519100aa2e7d6c0b4
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FSTV",Cinemax
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/ent-cinemax.m3u8?auth_key=1761922606-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-88a1a75eed063d0c1d0ec745666e73b3
+https://o4.shangper.shop/ent-cinemax.m3u8?auth_key=1761924916-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-19c80e603976872644e53fcfb6b103a9
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="FSTV",TBS
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/zzz-cty4.m3u8?auth_key=1761922609-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-eccd302b923c22077182cabd682c45a2
+https://o2.shangper.shop/zzz-cty4.m3u8?auth_key=1761924919-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-e97f9eeb362219aaedcf4409b674792e
 #EXTINF:-1 tvg-id="GOL.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="FSTV",GOL TV
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/us-goltv.m3u8?auth_key=1761922613-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-76946a598d539ce0349031e9c5d0fdfd
+https://o4.shangper.shop/us-goltv.m3u8?auth_key=1761924921-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-8037811e2e958fb2d52fd662c89f7591
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="FSTV",TSN 1
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/es-tsn1.m3u8?auth_key=1761922616-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-349ff539c24bf1c233dc9f9f3b0b6565
+https://o2.shangper.shop/es-tsn1.m3u8?auth_key=1761924925-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-2e1e6143183fa78335bd07794491d81a
 #EXTINF:-1 tvg-id="TSN.2.ca2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="FSTV",TSN 2
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/es-tsn2.m3u8?auth_key=1761922619-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-394a2bd611a1054d1bbcb39fb5bc1f9d
+https://o2.shangper.shop/es-tsn2.m3u8?auth_key=1761924928-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-8ea617f2a211482d7c84992b84046364
+#EXTINF:-1 tvg-id="TSN.3.ca2" tvg-logo="https://apsiscom.com/images/channels/935.webp" group-title="FSTV",TSN 3
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o2.shangper.shop/es-tsn3.m3u8?auth_key=1761924931-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-e436c60ed7a9afb849c4f1073fedc788
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="FSTV",TSN 4
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/es-tsn4.m3u8?auth_key=1761922623-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-ecb07360b05f20cc201308debd3e2ebe
+https://o2.shangper.shop/es-tsn4.m3u8?auth_key=1761924934-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-d7ab820156d8de60cf291838fba41dbe
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" group-title="FSTV",TSN 5
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.shangper.shop/es-tsn5.m3u8?auth_key=1761922626-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-8f6c01108945a7f260b6ab3af29578b8
+https://o2.shangper.shop/es-tsn5.m3u8?auth_key=1761924937-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-69b2a591290ebec5bd78aafa1ce07065
+#EXTINF:-1 tvg-id="Benfica.TV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_Benfica_TV.png/1200px-Logo_Benfica_TV.png" group-title="FSTV",Benfica TV
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://o3.shangper.shop/pt-benfica.m3u8?auth_key=1761924939-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-0f12e006e9bcbfe55d76dfbadd79acb7
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="FSTV",Sport TV1 Portugal
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.shangper.shop/pt-sporttv1.m3u8?auth_key=1761922631-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-0f02694fa2b19c651bf17bef5465f885
+https://o3.shangper.shop/pt-sporttv1.m3u8?auth_key=1761924942-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-fb4db4c164779861453d9f44b4b1d5d0
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-2.svg" group-title="FSTV",HBO 2
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.shangper.shop/ent-greatmovie.m3u8?auth_key=1761922634-ead27641dae01fbaec3a8cb8f95af4a2-00000000000000000000000000000000-a7f55e4dd5a3b58042cde1221e8f9f9d
+https://o4.shangper.shop/ent-greatmovie.m3u8?auth_key=1761924945-623b6fb15c58df89d3df06a057db1b0b-00000000000000000000000000000000-8a811e796435ca3d6ee504beae8d84f2
