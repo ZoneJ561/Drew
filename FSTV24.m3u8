@@ -3,544 +3,539 @@
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/usa-usanetwork.m3u8?auth_key=1762335126-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-11265d6d64b67b221a62bb4b232ae4c0
+https://o4.greektoday.shop/usa-usanetwork.m3u8?auth_key=1762336277-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-369e78fb6686c3143d9acf04e7174f12
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="FSTV",CBS Sports Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/usa-cbssport.m3u8?auth_key=1762335129-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-6da5a87ac0ae5322f0dffedd3827880c
+https://o4.greektoday.shop/usa-cbssport.m3u8?auth_key=1762336304-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-8ded01d4190c2b659ea82c6dc36c8ba9
 #EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS.png" group-title="FSTV",CBS Los Angeles
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-cbslosangeles.m3u8?auth_key=1762335132-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-60d42471b7a10043087d71a4b7786710
-#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://yt3.googleusercontent.com/DMOVkUIv9Su7yHsGmjl7gS0iU9qjvz13BSZZfQTVMCAE7mUHbWS3S0-DbFg1HUBt9pD9yjxT=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",CBS Sports Golazo!
-#EXTVLCOPT:http-origin=https://fstv.space
-#EXTVLCOPT:http-referrer=https://fstv.space/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.greektoday.shop/pre22.m3u8?auth_key=1762335134-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-8f924a363843129372bfcc184de6b492
+https://o4.greektoday.shop/us-cbslosangeles.m3u8?auth_key=1762336307-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-2f909fa166764c66491b1281c07846b9
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="FSTV",ESPN
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-espn.m3u8?auth_key=1762335138-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-31e6ee6fd21e0549ae4099c5ca4900bf
+https://o2.greektoday.shop/us-espn.m3u8?auth_key=1762336314-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-813b9fcf9f7b1f2d3d2c2d272b01df82
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" group-title="FSTV",NFL Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-nfl.m3u8?auth_key=1762335140-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-ec120197a90c0115e523e1c5ab4691df
+https://o2.greektoday.shop/us-nfl.m3u8?auth_key=1762336318-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-5ab3e4c3fa297a76e10cfe2c0cdb1528
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="FSTV",NFL RedZone
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-redzone.m3u8?auth_key=1762335143-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-9d657de31c93cb89a2961cda73e1ce41
+https://o2.greektoday.shop/us-redzone.m3u8?auth_key=1762336322-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-98bb9ef2db2f9f3339e974f053b8e3b4
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="FSTV",ESPN2
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-espn2.m3u8?auth_key=1762335146-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-c03035d4a2199a9b4f8554ac2d839e87
+https://o2.greektoday.shop/us-espn2.m3u8?auth_key=1762336324-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-037ebff64f146637722e3277fcb10859
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="FSTV",SEC Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-secnetwork.m3u8?auth_key=1762335149-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-866f039bb03d54076750afeed46befc1
+https://o4.greektoday.shop/us-secnetwork.m3u8?auth_key=1762336328-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-f08e65c2f438357899e4a53abe54074e
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="FSTV",ESPNews
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-espnnews.m3u8?auth_key=1762335153-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-7f59d87a781f0c63ac7e9914e9c1f55e
+https://o2.greektoday.shop/us-espnnews.m3u8?auth_key=1762336331-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-fc31ef09eb96fe9cbd16c248625b6b33
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" group-title="FSTV",ESPNU
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-uespn.m3u8?auth_key=1762335156-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-80781acdbda9dd0484cea7ea535421a9
+https://o2.greektoday.shop/us-uespn.m3u8?auth_key=1762336335-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-70b02f971d5496017ae5fae89712d242
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.svg.png" group-title="FSTV",ESPN Deportes
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-espndeportes.m3u8?auth_key=1762335159-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-0e453f7bc4a8f0d4a7397f98d6c047ac
+https://o2.greektoday.shop/us-espndeportes.m3u8?auth_key=1762336337-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-1085b5143521389fe11fb8de53bf005f
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="FSTV",FS1
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/usa-fs1.m3u8?auth_key=1762335162-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-ea6ee5ea523651180db0d9b02173a2f1
+https://o2.greektoday.shop/usa-fs1.m3u8?auth_key=1762336340-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-986e9ea2302fce0798a42cd2e0505532
 #EXTINF:-1 tvg-id="FS2.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="FSTV",FS2
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/usa-fs2.m3u8?auth_key=1762335164-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-46f9dbce9f7d96638d296803015ebe5d
+https://o2.greektoday.shop/usa-fs2.m3u8?auth_key=1762336342-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-d982472f49d250764068568c30c5c4a3
 #EXTINF:-1 tvg-id="plex.tv.NBC.News.NOW.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-flat-us.png?raw=true" group-title="FSTV",NBC News
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-viaplayxtra.m3u8?auth_key=1762335168-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-e933ae1831df0a077e92ae376562b5bd
+https://o2.greektoday.shop/uk-viaplayxtra.m3u8?auth_key=1762336346-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-64db6c9fb1ef83e578ec81300565d742
 #EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="FSTV",Golf Channel
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-golf.m3u8?auth_key=1762335171-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-1331461c18a2bcedaa5518e3bcd936fd
+https://o2.greektoday.shop/us-golf.m3u8?auth_key=1762336349-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-d91a5303dd6cc7cfb0c5f0a41beb3263
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="FSTV",Tennis Channel
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-tennistv.m3u8?auth_key=1762335174-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-ba0f7c5caa755d9edc04d7b9eefde46c
+https://o2.greektoday.shop/us-tennistv.m3u8?auth_key=1762336351-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-dc59df220889be0e586e10dc326b5a25
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="FSTV",Tennis Channel 2
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-tennistv2.m3u8?auth_key=1762335177-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-be6143b75c1cc7d6e8839874096f151c
+https://o4.greektoday.shop/us-tennistv2.m3u8?auth_key=1762336355-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-f1a75c4d20b3ae52bf168e0d7ce5c063
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" group-title="FSTV",NBC Universo
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-universo.m3u8?auth_key=1762335179-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-01b5d888be4de70f46340c5679902b3d
+https://o4.greektoday.shop/us-universo.m3u8?auth_key=1762336359-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-a7d640e8e4e4aebd9864e423870d059d
 #EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="FSTV",NBC
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-nbc.m3u8?auth_key=1762335183-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-2c285419cb16663fb50c4b838ecfc908
+https://o2.greektoday.shop/us-nbc.m3u8?auth_key=1762336362-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-f67fcac8df3c389c1dc0adf65633fe65
 #EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/2560px-MSNBC_2015-2021_logo.svg.png" group-title="FSTV",MSNBC
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-msn.m3u8?auth_key=1762335185-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-356174ad5ed4d7b1cd6f60de8cb700b7
+https://o2.greektoday.shop/us-msn.m3u8?auth_key=1762336365-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-23c70df40819108de0ffc5386e38aec9
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="FSTV",CNBC
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-cnbc.m3u8?auth_key=1762335188-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-04372cf6f99c22ec3e89790b939ac5c3
+https://o2.greektoday.shop/us-cnbc.m3u8?auth_key=1762336369-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-18e77742a090cbf24a04589c058cceb9
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="FSTV",TNT Sports 1
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-tntsport1.m3u8?auth_key=1762335192-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-0b3d114468edf8db442102844958e099
+https://o4.greektoday.shop/uk-tntsport1.m3u8?auth_key=1762336372-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-22c09710f8b3bc20847390e53a81344f
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="FSTV",TNT Sports 2
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-tntsport2.m3u8?auth_key=1762335194-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-80a33122d5bc07aea35ec800182bb795
+https://o4.greektoday.shop/uk-tntsport2.m3u8?auth_key=1762336375-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-4049b6b6519ae5bbef63230f7b5914b2
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="FSTV",TNT Sports 3
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-tntsport3.m3u8?auth_key=1762335197-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-dfd0b7fe97249e747e2567e04b295c45
+https://o4.greektoday.shop/uk-tntsport3.m3u8?auth_key=1762336378-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-d78fcd15c1d5fa747a33ae4339673c84
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="FSTV",TNT Sports 4
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-tntsport4.m3u8?auth_key=1762335200-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-520dbe98e525b0b5c343a7bcac1f4122
+https://o4.greektoday.shop/uk-tntsport4.m3u8?auth_key=1762336381-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-2303ba0dcc239914474491b249b734a8
 #EXTINF:-1 tvg-id="Eurosport.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png" group-title="FSTV",Eurosport 1 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-eurosport1.m3u8?auth_key=1762335202-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-515c7f36f47471760f8e0479052a1293
+https://o2.greektoday.shop/uk-eurosport1.m3u8?auth_key=1762336383-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-a9f8659c56116867a67df39f26a4132f
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp" group-title="FSTV",TNT Sports 5
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-tntsport5.m3u8?auth_key=1762335206-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-4bebf5b1837fc35d6a96cd61e9163bd5
+https://o4.greektoday.shop/uk-tntsport5.m3u8?auth_key=1762336387-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-ee871dbda742a12c597dec5c6157c2af
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png" group-title="FSTV",Eurosport 2 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-eurosport2.m3u8?auth_key=1762335208-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-51f9e2e2e002a0a7e233d50b1ec55324
+https://o2.greektoday.shop/uk-eurosport2.m3u8?auth_key=1762336389-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-b50bb131f486e57f3e3eef06e72a2e31
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="FSTV",Sky Sport Golf UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-skysportgolf.m3u8?auth_key=1762335211-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-97cf64c1fcf579b0ccc874f88c44d1d5
+https://o2.greektoday.shop/uk-skysportgolf.m3u8?auth_key=1762336393-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-a6dfe2155c385701ed3e23f6da2a07de
 #EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="FSTV",MUTV UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-mutv.m3u8?auth_key=1762335214-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-284f2c9facce11325a960552b3a7b96b
+https://o2.greektoday.shop/uk-mutv.m3u8?auth_key=1762336395-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-96842123a42817af0a7c63247c38b0b0
 #EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="FSTV",La Liga TV UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-laligatv.m3u8?auth_key=1762335217-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-f49520beae5514e4358cc4354067b690
+https://o4.greektoday.shop/uk-laligatv.m3u8?auth_key=1762336398-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-c41241ed96f7676a0e43e0d642a77ddd
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" group-title="FSTV",Sky Sport Tennis UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-skysporttenis.m3u8?auth_key=1762335221-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-1e0bdf32f8fa16796cb1039abf22420d
+https://o4.greektoday.shop/uk-skysporttenis.m3u8?auth_key=1762336401-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-129b59cd3f1afaa6bb7a1556971d3afc
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://live-tv.b-cdn.net/icons/sports/image_(5).png" group-title="FSTV",Sky Sport Plus UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-skyplus.m3u8?auth_key=1762335224-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-f719771b263c2d1e76dc7f1d7c357a76
+https://o2.greektoday.shop/uk-skyplus.m3u8?auth_key=1762336405-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-b2296fb2910c280ce755933c5a9b0b28
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="FSTV",Sky Sport Football
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-skysportfootball.m3u8?auth_key=1762335227-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-48dd8688b0d6624e39e31cfe1da47946
+https://o4.greektoday.shop/uk-skysportfootball.m3u8?auth_key=1762336409-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-ddda87a09fd3ca460bf9d076a773e729
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="FSTV",Sky Sport Premier League UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-skysportpremierleague.m3u8?auth_key=1762335229-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-40073162822a83fb353dd7753e36a583
+https://o4.greektoday.shop/uk-skysportpremierleague.m3u8?auth_key=1762336411-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-e682cc05eda6c53ad9780d327f4fa764
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="FSTV",Sky Sports Main Event
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-skysportmain.m3u8?auth_key=1762335232-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-1de2c8220d0c1c3d5bdb63744f6f348e
+https://o4.greektoday.shop/uk-skysportmain.m3u8?auth_key=1762336414-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-6e36e892c1a097f2bbd899c35d1b91cf
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="FSTV",Sky Sport Mix UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-skysportmix.m3u8?auth_key=1762335235-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-0fc7ed921eb7c2e4c673259e5aa66338
+https://o4.greektoday.shop/uk-skysportmix.m3u8?auth_key=1762336418-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-65ae859135c00140597b9da64fd8a8a4
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png" group-title="FSTV",Sky Sport Racing UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-skysportracing.m3u8?auth_key=1762335238-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-a397ad8422ae08231ac5536679d57d37
+https://o2.greektoday.shop/uk-skysportracing.m3u8?auth_key=1762336421-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-c1e51bbaa7ab4c2a808eb99ecd0d242d
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="FSTV",Premier Sports 1 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-premiersport1.m3u8?auth_key=1762335241-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-fe8c5b23ab3e782b72e1e53d9c950bef
+https://o4.greektoday.shop/uk-premiersport1.m3u8?auth_key=1762336424-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-8f3e594a641291791e803605c9ed7dca
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-2-uk.png?raw=true" group-title="FSTV",Premier Sports 2 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-premiersport2.m3u8?auth_key=1762335244-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-1eb3dfcf313a751b08ccfa7673b7eda6
+https://o4.greektoday.shop/uk-premiersport2.m3u8?auth_key=1762336427-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-92bf45eca9bb0f7a5e57920065e857b8
 #EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg" group-title="FSTV",Sky Sport Arena UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.greektoday.shop/uk-skysportarena.m3u8?auth_key=1762335247-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-87aba71f46d746dc9581be891d8f0995
+https://o3.greektoday.shop/uk-skysportarena.m3u8?auth_key=1762336430-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-8f1b2f38f5be493d53a8dd0f022a7123
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-hz-uk.png?raw=true" group-title="FSTV",Sky Sports Action UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-skysportaction.m3u8?auth_key=1762335249-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-4316f40c4eea31b8559f9c880765f76e
+https://o2.greektoday.shop/uk-skysportaction.m3u8?auth_key=1762336433-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-3c57a2f117963c46d340411a4aa960eb
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="FSTV",Sky Sport F1 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-skysportf1.m3u8?auth_key=1762335252-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-f677b07e86a29ee1260943cf632c5b4c
+https://o2.greektoday.shop/uk-skysportf1.m3u8?auth_key=1762336435-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-376c47d9da752844e77bb753401d306b
 #EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="FSTV",Racing TV UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-racingtv.m3u8?auth_key=1762335254-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-b8cb2267070069da0ec1787f92114812
+https://o4.greektoday.shop/uk-racingtv.m3u8?auth_key=1762336439-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-e66bae2447e8bde4ffaa2813c0c33ab0
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="FSTV",Sky Sport Cricket UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-skysportcricket.m3u8?auth_key=1762335257-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-f7aec8bbd58d7cc0d66133f7979391ea
+https://o2.greektoday.shop/uk-skysportcricket.m3u8?auth_key=1762336441-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-4fb7241a5692515d916e7a0fd164a383
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="FSTV",Sky Sport News UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-skysportnews.m3u8?auth_key=1762335261-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-065b46efb61f9b3fbea2125ffea07bc7
+https://o4.greektoday.shop/uk-skysportnews.m3u8?auth_key=1762336444-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-3aa75464bc2fbd0f6a45545f6253340d
 #EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVQ1cCp2JyCeuTWBoSi-Te_YD_29p4ZEUJQ&s" group-title="FSTV",Sky Sport Darts UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-skydart.m3u8?auth_key=1762335265-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-43d7b817208599c91f94b706596ced28
+https://o2.greektoday.shop/uk-skydart.m3u8?auth_key=1762336448-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-43bac0eb95160329271ddc1ff24ca47f
 #EXTINF:-1 tvg-id="KSKJ-CD.us_locals1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="FSTV",BeIN Sports Xtra USA
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-beinxtra.m3u8?auth_key=1762335268-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-174e2c6a48f6f0e376bc9ef2d9cb8e7a
+https://o4.greektoday.shop/us-beinxtra.m3u8?auth_key=1762336451-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-8d47dde421186deb375fcd73116fcb9d
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",BeIN Sports USA
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/usa-beinsport.m3u8?auth_key=1762335271-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-25435e66717a7ca8321bd01ad701a0da
+https://o4.greektoday.shop/usa-beinsport.m3u8?auth_key=1762336454-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-6634bc2b8884a5913544d1a48c0a19ad
 #EXTINF:-1 tvg-id="613759" tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="FSTV",BeIN Sports Español
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/usa-beinlaliga.m3u8?auth_key=1762335275-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-4917307e5e840f364ca0523a2202172a
+https://o4.greektoday.shop/usa-beinlaliga.m3u8?auth_key=1762336456-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-b32d0a8dd1ab503e6084928a54be8844
 #EXTINF:-1 tvg-id="613759" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png" group-title="FSTV",BeIN Sports Español Xtra
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-beinespamolxtra.m3u8?auth_key=1762335277-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-181697c08a94c4edee422fb8107b0e81
+https://o4.greektoday.shop/us-beinespamolxtra.m3u8?auth_key=1762336459-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-0194d355bb01e124ea7c2eb2a3dfe6e1
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png" group-title="FSTV",ITV 1 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-itv1.m3u8?auth_key=1762335280-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-d8a3ade8b25dc58c91854abe2ce28530
+https://o2.greektoday.shop/uk-itv1.m3u8?auth_key=1762336463-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-f08ee9249cdaeccba0580ec08339c52a
 #EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV2_Logo_2013.svg/2560px-ITV2_Logo_2013.svg.png" group-title="FSTV",ITV 2 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-itv2.m3u8?auth_key=1762335283-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-67a1280fa8e4ab2914fa73a2dbcacf1e
+https://o2.greektoday.shop/uk-itv2.m3u8?auth_key=1762336465-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-aba2e5edb5db41f6db8b3c5d6c53ea1b
 #EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/1024px-ITV3_logo_2022.svg.png" group-title="FSTV",ITV 3 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-itv3.m3u8?auth_key=1762335285-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-24d8f7887dfb24b8ab88d391cbbd20f7
+https://o2.greektoday.shop/uk-itv3.m3u8?auth_key=1762336469-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-463f690d0b85856059d252dee631a8fe
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/2560px-ITV4_logo_%282022%29.svg.png" group-title="FSTV",ITV 4 UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-itv4.m3u8?auth_key=1762335289-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-45658197ef1c9159427962d97ab9dda0
+https://o2.greektoday.shop/uk-itv4.m3u8?auth_key=1762336472-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-544a945964beff26caa26c8000a0dbea
 #EXTINF:-1 tvg-id="Fubo.Sports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true" group-title="FSTV",Fubo Sports USA
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/usa-fubosport.m3u8?auth_key=1762335292-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-aa140c743855c2953721610463af19e0
+https://o4.greektoday.shop/usa-fubosport.m3u8?auth_key=1762336475-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-3a0c43dd6d132cff04dc1aed2bcf79d9
 #EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-logo="https://ejnorbs.co.uk/wp-content/uploads/2022/01/1E9C338F-017E-4986-A724-AE08D733A0CF.png" group-title="FSTV",LFC TV UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-lfctv.m3u8?auth_key=1762335294-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-673c7b5305d57053202ea0a8e955248c
+https://o2.greektoday.shop/uk-lfctv.m3u8?auth_key=1762336477-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-2cf8cd2b671fd98337b48183b8467c93
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ION_Television.png" group-title="FSTV",ION USA
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-ion.m3u8?auth_key=1762335297-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-3d36cca89dc9f62010848952149e4b6c
+https://o4.greektoday.shop/us-ion.m3u8?auth_key=1762336481-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-f293727223a04e72bbf5755cb55a0c0a
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png" group-title="FSTV",Fox Soccer Plus
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/usa-foxsoccerplus.m3u8?auth_key=1762335300-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-23b0103dbd54e71b86b24f4c30cef854
+https://o4.greektoday.shop/usa-foxsoccerplus.m3u8?auth_key=1762336483-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-ed9af73b38577d146d5f05171270792d
 #EXTINF:-1 tvg-id="TyC.Sports.Internacional.USA.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true" group-title="FSTV",TyC Sports
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/usa-tycsport.m3u8?auth_key=1762335303-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-cb4952d3efb4d51e9f938e912355de4b
+https://o4.greektoday.shop/usa-tycsport.m3u8?auth_key=1762336485-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-6ea8c7246aa9db8c64cd98f436fca5d8
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBAuTfA1DhscWW7O3ANKzLlFXAcEgz4aQOA&s" group-title="FSTV",Marquee Sports Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-marquee.m3u8?auth_key=1762335305-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-657db149e15187df71ffbbd2dc1d16c9
+https://o2.greektoday.shop/us-marquee.m3u8?auth_key=1762336489-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-8f3a73b482e90e648b698c07f4cb5867
 #EXTINF:-1 tvg-id="Yes.Network.us2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVKhyyLjhKAjizJqs8N8jg7mH7bHWVXwUUg&s" group-title="FSTV",YES Network USA
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-yes.m3u8?auth_key=1762335308-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-37fae7eeaeaa8efbf6cccdc316f4efbe
+https://o4.greektoday.shop/us-yes.m3u8?auth_key=1762336493-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-e977412dd4d2bcf63eaaff8ee92fcc1d
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="FSTV",Big Ten Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-bignetwork.m3u8?auth_key=1762335311-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-cea39955b47d7a48929e62199b595766
+https://o4.greektoday.shop/us-bignetwork.m3u8?auth_key=1762336496-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-eb25d702683154d1a40199424aa7577d
 #EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="FSTV",ABC
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-abc.m3u8?auth_key=1762335314-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-242a17883b88aad12e3a911a8165c3b4
+https://o4.greektoday.shop/us-abc.m3u8?auth_key=1762336499-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-3f1183cab714597449212eda6a03f98f
 #EXTINF:-1 tvg-id="TUDN.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="FSTV",TUDN
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/usa-tudn.m3u8?auth_key=1762335316-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-41e01aae51fc1550f4cd0582fc71901f
+https://o4.greektoday.shop/usa-tudn.m3u8?auth_key=1762336502-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-41610296e65270be09eb541b5f092c5b
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FOX.png" group-title="FSTV",Fox Los Angeles
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-foxchanel.m3u8?auth_key=1762335318-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-a720d284bd2fca3e9313214aa36ab4ea
+https://o4.greektoday.shop/us-foxchanel.m3u8?auth_key=1762336504-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-ae8ece888da97512617da651e4852dfe
 #EXTINF:-1 tvg-id="KVEA-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="FSTV",Telemundo
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-telemundo.m3u8?auth_key=1762335321-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-4c609330f6fd28c35722ee3c6061a48f
+https://o4.greektoday.shop/us-telemundo.m3u8?auth_key=1762336508-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-b6325aa99db996cf75980027d26058d4
 #EXTINF:-1 tvg-id="KFTH-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/unimas-us.png?raw=true" group-title="FSTV",UniMás
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-unimas.m3u8?auth_key=1762335325-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-ab298baac859f89b6416f4ca93ae317c
+https://o4.greektoday.shop/uk-unimas.m3u8?auth_key=1762336512-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-2b751d9c794c33028eeefca5776db74c
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="FSTV",NHL Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-nhlnetwork.m3u8?auth_key=1762335328-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-6c8a4967c61b47c3e15d77fa2fcc2ab8
+https://o2.greektoday.shop/us-nhlnetwork.m3u8?auth_key=1762336516-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-ce0ced97e87b9f8172fc997179088da6
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="FSTV",Willow Cricket HD
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-willowhd.m3u8?auth_key=1762335332-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-e24e2f8c5525e4d1b4826ea07c31ec77
+https://o2.greektoday.shop/us-willowhd.m3u8?auth_key=1762336518-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-3001bf2745576ea5123c7f7fb74e6de8
 #EXTINF:-1 tvg-id="Willow.Xtra.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-xtra-us.png?raw=true" group-title="FSTV",Willow Xtra
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-willowxtra.m3u8?auth_key=1762335336-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-eb8862a98c975d1d820b6067ea67c725
+https://o2.greektoday.shop/us-willowxtra.m3u8?auth_key=1762336522-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-f0bb32d94eae3894d06da5faf8328bc2
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBATV.png" group-title="FSTV",NBA TV
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-nbatv.m3u8?auth_key=1762335339-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-94b671fe1cee6e0cb0a4b8f6a3be4ca4
+https://o2.greektoday.shop/us-nbatv.m3u8?auth_key=1762336526-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-b368c5c5b6ca0618104388b7c8149d13
 #EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="FSTV",MLB Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-mlbnetwork.m3u8?auth_key=1762335343-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-cbbcc660307260529e061d740ce9fc0d
+https://o2.greektoday.shop/us-mlbnetwork.m3u8?auth_key=1762336528-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-f2cb7a9da4fcebe7e62e098ea6c6e61b
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" group-title="FSTV",CNN
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-cnn.m3u8?auth_key=1762335345-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-f2ce8a59aa156f831f73d30c22e8bdb3
+https://o2.greektoday.shop/us-cnn.m3u8?auth_key=1762336531-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-24b2339055738065d693d1fb58e812c8
 #EXTINF:-1 tvg-id="W.Network.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/w-network-ca.png?raw=true" group-title="FSTV",W Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-wnetwork.m3u8?auth_key=1762335349-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-745ef827cdb6a30ceef5852cbca7b835
+https://o2.greektoday.shop/us-wnetwork.m3u8?auth_key=1762336534-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-c82823d70319857f50aca44aee16bddd
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="FSTV",ACC Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-accnetwork.m3u8?auth_key=1762335353-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-06a1bed9cf1ce214e193a48a4ceadd7a
+https://o2.greektoday.shop/us-accnetwork.m3u8?auth_key=1762336537-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-c2ae1c34ed8ed4453d6b8444efde0a40
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="FSTV",FoxNews
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-foxnews.m3u8?auth_key=1762335355-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-42dc0422275827fbfbf4c7883a49a721
+https://o2.greektoday.shop/us-foxnews.m3u8?auth_key=1762336539-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-21c439ec61a6f5c20a5a3d830940fcb0
 #EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" group-title="FSTV",World Fishing Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-wfn.m3u8?auth_key=1762335359-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-4e7a948656ccf6d95a262b84ba99d80d
+https://o2.greektoday.shop/us-wfn.m3u8?auth_key=1762336542-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-e251ed40ede477f1759e309154dcb039
 #EXTINF:-1 tvg-id="Fight.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fight-network-us.png?raw=true" group-title="FSTV",The Fight Network
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-fightnetwork.m3u8?auth_key=1762335362-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-1c602026504fbb4da61e8b46da1d6bab
+https://o2.greektoday.shop/us-fightnetwork.m3u8?auth_key=1762336545-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-e348985757a539f5dcdf3728adbf1d5c
 #EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/FanDuel_Sports_Network_logo.svg" group-title="FSTV",FanDuel TV
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.greektoday.shop/pre32.m3u8?auth_key=1762335371-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-d1c6a8f2bf9653bbc8513b938a4bf857
+https://o3.greektoday.shop/pre32.m3u8?auth_key=1762336553-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-51ffc914fd47eecfa281df4c21e78c20
 #EXTINF:-1 tvg-id="AXS.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" group-title="FSTV",AXS TV
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.greektoday.shop/pre51.m3u8?auth_key=1762335373-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-00f34c519d43b0fd8d7be35273bf7fc1
+https://o3.greektoday.shop/pre51.m3u8?auth_key=1762336556-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-0550d0ff3c5ecede7fbaf7a86f09f66d
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-logo="https://archive.org/download/BbcOneWales_201708/bbc%20one%20wales.png" group-title="FSTV",BBC One UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-bbcone.m3u8?auth_key=1762335376-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-6152798595f00e776ac5fea466db5915
+https://o4.greektoday.shop/uk-bbcone.m3u8?auth_key=1762336559-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-b3bd2a0acddbd2a558e3b5da82102c95
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png" group-title="FSTV",BBC Two UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/uk-bbctwo.m3u8?auth_key=1762335378-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-592403579b357951a0c1cc157f831c16
+https://o4.greektoday.shop/uk-bbctwo.m3u8?auth_key=1762336561-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-fcbbb4687f80f96f0cb2a66ffdefe762
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" group-title="FSTV",BBC News UK
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/uk-bbcnews.m3u8?auth_key=1762335381-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-8865a064deb6b78ce57302c664cb4cf0
+https://o2.greektoday.shop/uk-bbcnews.m3u8?auth_key=1762336564-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-c4d3c4427cb1b12be10b2d4cbf1bb1c1
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="FSTV",Fox Deportes
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/us-foxdeportes.m3u8?auth_key=1762335384-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-a365322e46c3a37b32777dec7614327c
+https://o2.greektoday.shop/us-foxdeportes.m3u8?auth_key=1762336567-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-114cda158269e1db4db473a3c70f789f
 #EXTINF:-1 tvg-id="One.Soccer.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/one-soccer-ca.png?raw=true" group-title="FSTV",OneSoccer Canada
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/ca-soccerone.m3u8?auth_key=1762335388-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-92cf818e62a8b9f5aa2fc2f9483dc119
+https://o4.greektoday.shop/ca-soccerone.m3u8?auth_key=1762336571-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-acaa88900a77d3985c18a7fb3d8c30af
 #EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png?raw=true" group-title="FSTV",DAZN 1 Germany
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.greektoday.shop/de-dazn1.m3u8?auth_key=1762335391-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-c1bfcf6e98fe72b5e18258ece1f92a0f
+https://o3.greektoday.shop/de-dazn1.m3u8?auth_key=1762336575-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-0bb36f83fc08de7ca757f1a4599b5f1e
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="FSTV",Sky Sport Premier League DE
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/de-skypremierleagaue.m3u8?auth_key=1762335394-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-7c13b627913d0c68e2e0328448dacb0d
+https://o4.greektoday.shop/de-skypremierleagaue.m3u8?auth_key=1762336577-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-d8dbadf109cae4f3223739de41a8e9fb
 #EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn2-de.png?raw=true" group-title="FSTV",DAZN 2 Germany
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.greektoday.shop/de-dazn2.m3u8?auth_key=1762335397-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-0fa0986225ff18c4aae811ad49eb852d
+https://o3.greektoday.shop/de-dazn2.m3u8?auth_key=1762336579-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-92baf8e5155079b6ef39482703224d06
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png" group-title="FSTV",Ori2Deskyde Top Ent
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/de-skytopevent.m3u8?auth_key=1762335399-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-08b55b51f7f4b630f7bee0546d6f9ebc
+https://o4.greektoday.shop/de-skytopevent.m3u8?auth_key=1762336582-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-902b594f92a61dd59d4a8a96bfd7a5a1
 #EXTINF:-1 tvg-id="sportdigital.Fussball.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="FSTV",SportDigital Germany
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/de-sportdigital.m3u8?auth_key=1762335401-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-3090984e658cc11fc0d36ec2e00659f9
+https://o4.greektoday.shop/de-sportdigital.m3u8?auth_key=1762336586-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-bc9279d5da2963c8d98d0601b06e251d
 #EXTINF:-1 tvg-id="Sky.Sport.News.de" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="FSTV",Sky Sport News DE
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/de-skynews.m3u8?auth_key=1762335405-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-9d4f7ba8c59e4a2585c11a0b778bdcf8
+https://o4.greektoday.shop/de-skynews.m3u8?auth_key=1762336589-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-dffdd00091c1089e8cd6da6f7e2c6822
 #EXTINF:-1 tvg-id="Sky.Sport.Mix.de" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-mix-uk.png?raw=true" group-title="FSTV",Sky Mix DE
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/de-skymix.m3u8?auth_key=1762335409-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-696de2387eb9f05196d7f0b496abad4a
+https://o4.greektoday.shop/de-skymix.m3u8?auth_key=1762336592-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-c53b9eba0c1ed5e69ec29d6a9ea1c872
 #EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" group-title="FSTV",Bundesliga 1 Germany
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.greektoday.shop/de-bundesliga1.m3u8?auth_key=1762335411-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-cd2ede8d49e384f9ff7bbe3be51ae168
+https://o3.greektoday.shop/de-bundesliga1.m3u8?auth_key=1762336595-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-8e30aa37e43f705cd02c42ba4bdbc40d
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://www.sec.gov/Archives/edgar/data/1564708/000156470822000051/image_151a.jpg" group-title="FSTV",Fox Sports 502 AU
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.greektoday.shop/pre31.m3u8?auth_key=1762335414-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-ce525b25ef03af8f570d1eb18d6b2643
+https://o3.greektoday.shop/pre31.m3u8?auth_key=1762336599-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-a0feaa2b8628d320bdd81377fe20f0f3
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector-400x400.png" group-title="FSTV",Discovery Channel
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/ent-discovery.m3u8?auth_key=1762335417-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-ba3b0675d5dfb0c34bfb0899bfda9991
+https://o4.greektoday.shop/ent-discovery.m3u8?auth_key=1762336602-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-42c99132fa45b01ab8a8b0475c1bc7a0
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="FSTV",HBO
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/ent-hbo.m3u8?auth_key=1762335419-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-7ee17fd1ade16a238fc91d6b7c22f248
+https://o4.greektoday.shop/ent-hbo.m3u8?auth_key=1762336606-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-0c2d987e6e9f4f41a23305d120ec0bf1
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FSTV",Cinemax
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/ent-cinemax.m3u8?auth_key=1762335422-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-c2501e8cb6288b4b7004d58877f99759
+https://o4.greektoday.shop/ent-cinemax.m3u8?auth_key=1762336609-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-03b1744dba4fc578749ec89032086aa4
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="FSTV",TBS
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-tbs.m3u8?auth_key=1762335426-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-84798c59368fab8f5e7e2fea83e77e96
+https://o4.greektoday.shop/us-tbs.m3u8?auth_key=1762336611-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-91d01abc01bfd5102465f648bc218952
 #EXTINF:-1 tvg-id="GOL.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="FSTV",GOL TV
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/us-goltv.m3u8?auth_key=1762335429-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-50cb6d0f3ee1d45848d690bd7bc0c195
+https://o4.greektoday.shop/us-goltv.m3u8?auth_key=1762336613-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-8ec28f503eb863bd9e374c67e92b2c5b
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="FSTV",TSN 1
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/es-tsn1.m3u8?auth_key=1762335432-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-d49563e95880a5ea6b3b85169158e674
+https://o2.greektoday.shop/es-tsn1.m3u8?auth_key=1762336616-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-a076ef5d8a7933af540428ea2aade17e
 #EXTINF:-1 tvg-id="TSN.2.ca2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="FSTV",TSN 2
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/es-tsn2.m3u8?auth_key=1762335435-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-810a7693d70dae79228475b79f833e6a
+https://o2.greektoday.shop/es-tsn2.m3u8?auth_key=1762336619-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-2fd0834d1452eea859d3bc5ba7d11460
 #EXTINF:-1 tvg-id="TSN.3.ca2" tvg-logo="https://apsiscom.com/images/channels/935.webp" group-title="FSTV",TSN 3
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/es-tsn3.m3u8?auth_key=1762335439-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-f2776ce8e6f5c54db3f3afd054d17e63
+https://o2.greektoday.shop/es-tsn3.m3u8?auth_key=1762336623-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-51d75ff41a5fbbd412661b380bad0616
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="FSTV",TSN 4
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/es-tsn4.m3u8?auth_key=1762335442-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-eb90cf682c2bcc39ddbf8c6bed65fd0a
+https://o2.greektoday.shop/es-tsn4.m3u8?auth_key=1762336626-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-8945667c5fe79967d79bacb0c70438f2
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" group-title="FSTV",TSN 5
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o2.greektoday.shop/es-tsn5.m3u8?auth_key=1762335446-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-35c9c21ef713836626e8552f680224e1
+https://o2.greektoday.shop/es-tsn5.m3u8?auth_key=1762336629-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-6446baf8c9a3e1bbcc204a5aa0049566
 #EXTINF:-1 tvg-id="Benfica.TV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_Benfica_TV.png/1200px-Logo_Benfica_TV.png" group-title="FSTV",Benfica TV
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.greektoday.shop/pt-benfica.m3u8?auth_key=1762335448-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-1cd5c6c93f64c8ea9898d70739d9097d
+https://o3.greektoday.shop/pt-benfica.m3u8?auth_key=1762336632-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-70b16f7914f3a7a9ff8c0e67e3e232fa
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="FSTV",Sport TV1 Portugal
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o3.greektoday.shop/pt-sporttv1.m3u8?auth_key=1762335450-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-7d65b350bb9f08bc1bcd3f86887f336a
+https://o3.greektoday.shop/pt-sporttv1.m3u8?auth_key=1762336634-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-6c2211461234a837d21e6df37aa5e5dc
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-2.svg" group-title="FSTV",HBO 2
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-https://o4.greektoday.shop/ent-greatmovie.m3u8?auth_key=1762335454-6e8b13faefc1dbb3bd2fe8a201d5e97f-00000000000000000000000000000000-84cb55c331fe07bf85762e46ebf47d58
+https://o4.greektoday.shop/ent-greatmovie.m3u8?auth_key=1762336636-b2b3b8cef60af84e3d5fdb897dab0a7f-00000000000000000000000000000000-b11b86f77115e4c7d9c653f2ac243078
